@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FloatingViewSample</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="hide">Hide</string>
+    <string name="show">Show</string>
+    <string name="stat_title">Service is running</string>
+
+    <string name="stat_text">Tap on the notification to stop it.</string>
+    <string name="header1">This is a sample app to have a look at the FloatingViewService lib for Android</string>
+    <string name="label1">This is just a sample of what you can do with the FloatingViewService</string>
+    <string name="label2">You can start or stoping by pressing this button</string>
+    <string name="label3">or hide and show it, by using this button</string>
+
+
+    <string name="footnote">"Have a look at the source code @"</string>
+    <string name="code_url">https://github.com/alexstyl/FloatingViewService</string>
+    <string name="new_activity">New</string>
+</resources>
