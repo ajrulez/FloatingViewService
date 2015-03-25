@@ -9,7 +9,7 @@ This project works only as a concept and idea on what you can do with overlays a
 
 
 <p>Sample app:<br/>
-<a href="https://play.google.com/store/apps/details?id=https://play.google.com/store/apps/details?id=com.alexstyl.floatingviewservice">
+<a href="https://play.google.com/store/apps/details?id=com.alexstyl.floatingviewservice">
   <img alt="Get it on Google Play"
        src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
 </a></p>
